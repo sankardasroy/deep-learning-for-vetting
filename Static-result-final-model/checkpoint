@@ -1,0 +1,5 @@
+model_checkpoint_path: "/home/ubuntu/Newmodel_3"
+all_model_checkpoint_paths: "/home/ubuntu/Newmodel_0"
+all_model_checkpoint_paths: "/home/ubuntu/Newmodel_1"
+all_model_checkpoint_paths: "/home/ubuntu/Newmodel_2"
+all_model_checkpoint_paths: "/home/ubuntu/Newmodel_3"
